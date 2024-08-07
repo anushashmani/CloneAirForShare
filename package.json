@@ -1,6 +1,6 @@
 {
-  "homepage": "https://anushashmani.github.io/air-for-share-clone",
   "name": "airforshare",
+  "homepage": "https://anushashmani.github.io/CloneAirForShare",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,6 +16,7 @@
     "antd": "^5.14.0",
     "file-saver": "^2.0.5",
     "firebase": "^10.7.2",
+    "gh-pages": "^6.1.1",
     "i18next": "^23.8.2",
     "jszip": "^3.10.1",
     "react": "^18.2.0",
